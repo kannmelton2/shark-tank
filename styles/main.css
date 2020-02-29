@@ -1,3 +1,6 @@
 body {
     background-color: aqua;
 }
+.person-card {
+    margin-bottom: 15px;
+}
