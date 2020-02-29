@@ -1,5 +1,5 @@
 const persons = [
-    {id: 'person1', name: 'zoe', isDead: false},
+    {id: 'person1', name: 'Zoe', isDead: false},
     {id:'person2', name: 'Luke', isDead: false},
     {id:'person3', name: 'Mary', isDead: false},
     {id: 'person4', name: 'Aaron', isDead: false},
